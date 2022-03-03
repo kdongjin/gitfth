@@ -1,0 +1,34 @@
+# Person files
+secrets.txt
+
+# Object files
+*.obj
+
+# Linker output
+*.ilk
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a7*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.hex
+
+# Debug files
+*.su
+*.idb
+*.pdb
